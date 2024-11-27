@@ -1,0 +1,8 @@
+.idea
+.venv/
+.env
+venv/
+
+vcs.xml
+modules.xml
+inf_428_hw_2.iml
